@@ -1,5 +1,5 @@
 # Lab-3-Experimental-Physics-PHAS0051-HPGe-Detector-for-Nuclear-Spectroscopy
-This lab involvs tons of data analysis, and thus Python script is used extensively. 
+This lab involves tons of data analysis, and thus Python script is used extensively. 
 This main purpose is for records.
 
 Here will be two main files: Spectra.py and Exe.ipynb,
